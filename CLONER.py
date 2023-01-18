@@ -415,7 +415,7 @@ class Main:
 		print(" \033[1;39m\033[1;32m [1] FOLLOW ME ON FACEBOOK")
 		print(" \033[1;39m\033[1;31m [2] Exit")
 		print("")
-		baloch = input("\n\033[1;37m  \033[1;35mChoice \033[1;37m: \033[1;32m")
+		baloch = input("\n\033[1;37m  \033[1;35m[!]Choice \033[1;37m: \033[1;32m")
 		if baloch in ["", " "]:
 			exit()
 		elif baloch in ["2", "02"]:
@@ -442,7 +442,7 @@ class Main:
 		print(" \033[1;39m \033[1;34m【4】 \033[1;32mOld Cloning Id's 2006-10 \033[0;92m  [Best]")
 		print(" \033[1;39m \033[1;35m【5】 \033[1;37mOld Cloning Id's 2011-16\033[0;92m   [Best] ")
 		print(" \033[1;39m \033[0;91m【E】 Exit \n")
-		NEHAL =input(" \033[1;33m[▪]Choice : ")
+		NEHAL =input(" \033[1;33m[!]Choice : ")
 		if NEHAL in ["1", "01"]:
 			os.system("xdg-open https://www.facebook.com/nehal.ahmed6")
 			File()
