@@ -391,7 +391,7 @@ logo =                                          """
 \033[1;99m╚═══════════════════════════════════════════════════╝
 
 \033[1;91m╔═══════════════════════════════════════════════════╗
-\033[1;92m█             DEVLOPER  : NEHAL AHMED               █
+\033[1;92m█             DEVELOPER : NEHAL AHMED               █
 \033[1;93m█             GITHUB    : weirdnehal                █
 \033[1;96m█             WHATSAPP  : +8801613016943            █
 \033[1;91m╚═══════════════════════════════════════════════════╝
@@ -861,7 +861,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [NEHAL]>_%s/%s  >_ Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [NEHAL]>%s/%s  > Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
