@@ -410,7 +410,6 @@ class Main:
 		print(logo)
 		
 		
-		print("\033[1;37m              Clowns Laughing At You ")
 		
 		
 		print(" \033[1;39m\033[1;32m [1] FOLLOW ME ON FACEBOOK")
@@ -427,24 +426,23 @@ class Main:
 			os.system("xdg-open https://www.facebook.com/nehal.ahmed6")
 			print("")
 			time.sleep(2.0)
-			print("\033[1;37m    Type Your Name")
 			print("")
-			input("\n\033[1;32m  Type Name \033[1;34m:  \033[1;33m")
+			input("\n\033[1;32m  [▪]Type Your Name \033[1;34m:  \033[1;33m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;37m Successful ")
 			time.sleep(2.0)
 			os.system("clear")
 		print(logo)
-		print(" \033[1;37m[▪]Select Option")
-		
+		print(" \033[1;39m [▪]Select Option")
+
 		print(" \033[1;39m \033[1;31m【1】 \033[1;36mBest Crack File Cloning\033[0;92m    ")
 		print(" \033[1;39m \033[1;32m【2】 \033[1;34mCrack Public Id's")
 		print(" \033[1;39m \033[1;33m【3】 \033[1;33mWhatsapp Group help ")
 		print(" \033[1;39m \033[1;34m【4】 \033[1;32mOld Cloning Id's 2006-10 \033[0;92m  [Best]")
 		print(" \033[1;39m \033[1;35m【5】 \033[1;37mOld Cloning Id's 2011-16\033[0;92m   [Best] ")
 		print(" \033[1;39m \033[0;91m【E】 Exit \n")
-		NEHAL =input(" \033[1;35mChoice : ")
+		NEHAL =input(" \033[1;33m[▪]Choice : ")
 		if NEHAL in ["1", "01"]:
 			os.system("xdg-open https://www.facebook.com/nehal.ahmed6")
 			File()
