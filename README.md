@@ -1,4 +1,4 @@
-## All In One Bangladeshi All Sim Facebook Cloner Tools [6-7-8-9-10-11]
+## THIS IS RANDOM CLONING TOOL
 ## FREE TOOL ENJOY EVERYONE
 ```python
 
@@ -16,13 +16,13 @@ pip install requests
 
 pip install mechanize
 
-rm -rf MAHADI-PRO
+rm -rf DARK-CLONER
 
-git clone https://github.com/MAHADI-143/MAHADI-PRO.git
+git clone https://github.com/weirdnehal/DARK-CLONER.git
 
-cd MAHADI-PRO
+cd DARK-CLONER
 
-python MAHADI-PRO.py
+python DARK-CLONER.py
 ````
 
 ## PROOF
