@@ -1,4 +1,15 @@
 
+# Script       : weirdnehal
+# Author       : Nehal Ahmed
+# Github       : https://github.com/weirdnehal
+# Messenger    : https://m.me/nehal.ahmed6
+# Email        : misterweird10@gmail.com
+# Date         : 19-01-2023
+# Main Language: Python
+
+# Download and import
+
+
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
