@@ -28,5 +28,4 @@ python DARK-CLONER.py
 ````
 
 ## PROOF
-
-![WhatsApp Image 2023-01-21 at 14 25 55](https://user-images.githubusercontent.com/107056647/213858764-5f1cb992-3453-439e-a884-499a7b206144.jpeg)
+![WhatsApp Image 2023-01-21 at 14 40 21](https://user-images.githubusercontent.com/107056647/213859261-dee4e511-e80a-4d36-93ea-eaf9a3b588c5.jpeg)
